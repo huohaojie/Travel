@@ -30,7 +30,7 @@ export default {
       swiperList: [],
       iconsList: [],
       recommendList: [],
-      WeekendList: []
+      weekendList: []
     }
   },
   methods: {
