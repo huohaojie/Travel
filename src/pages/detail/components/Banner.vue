@@ -6,7 +6,7 @@
         <div class="banner-title">{{this.sightName}}</div>
         <div class="banner-number">
           <span class="iconfont banner-icon">&#xe692;</span>
-          {{this.bannerImg.length}}
+          {{this.gallaryImgs.length}}
         </div>
       </div>
     </div>
